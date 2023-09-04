@@ -1,0 +1,24 @@
+量化交易套件比較 & 整理
+https://zhuanlan.zhihu.com/p/122183963
+
+多股票交易參考
+https://zhuanlan.zhihu.com/p/269443883
+https://zhuanlan.zhihu.com/p/560026717
+https://zhuanlan.zhihu.com/p/402559960
+https://quantnomad.com/running-backtesting-for-universe-of-stocks-in-python-with-backtrader/#:~:text=for%20s%20in%20stocks%3A%20data%20%3D%20bt.feeds.YahooFinanceData%20%28dataname,with%20the%20same%20code%20as%20for%20single%20stock.
+
+add observer
+https://zhuanlan.zhihu.com/p/373657923
+
+add data
+https://ithelp.ithome.com.tw/articles/10242427
+https://zhuanlan.zhihu.com/p/367022113
+
+
+教學
+https://github.com/jrothschild33/learn_backtrader
+https://github.com/ZoeQuant/backtrader_tutorial
+https://ithelp.ithome.com.tw/m/articles/10277991?fbclid=IwAR0S15xXc10DNA_rvrn5IFKVFXJeCZgC-EicrPT15s6syMs-1tFmd1zOdAI
+
+order
+https://zhuanlan.zhihu.com/p/486905723
